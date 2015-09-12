@@ -15,3 +15,9 @@ JAY Start HERE
 ======================================================
 
 SIT Start HERE
+git log : 
+git config :
+git status :
+git add :
+git commit :
+git diff :
