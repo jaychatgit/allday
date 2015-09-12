@@ -2,6 +2,7 @@
 JAY Start HERE
 
 ภาษาไทยได้ไหม
+ผมว่าน่าจะใช้ได้นะ
 
 
 
@@ -15,9 +16,10 @@ JAY Start HERE
 ======================================================
 
 SIT Start HERE
-git log : 
-git config :
-git status :
+git log : show log / changed
+git config : show configuration
+git status : 
 git add :
 git commit :
 git diff :
+git remote <action> <name remote> url
