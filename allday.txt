@@ -1,8 +1,19 @@
 ﻿
 JAY Start HERE
 
+<<<<<<< HEAD
 ภาษาไทยได้ไหม
 ผมว่าน่าจะใช้ได้นะ
+=======
+Introduction to Git
+
+
+เริ่มต้นใช้งาน Git
+1. Folder Structure
+	ควรกำหนดข้อตกลงในการแบ่ง Folder และ File ต่างๆ ใน Project ให้เสร็จตั้งแต่เริ่ม
+	touch .gitignore ไว้ เพื่อใส่ List ของ File ที่
+
+>>>>>>> 0d2ae4625e9e9e518a70128549ba9cc19d0fcfac
 
 
 
@@ -22,4 +33,7 @@ git status :
 git add :
 git commit :
 git diff :
+<<<<<<< HEAD
 git remote <action> <name remote> url
+=======
+>>>>>>> 0d2ae4625e9e9e518a70128549ba9cc19d0fcfac
