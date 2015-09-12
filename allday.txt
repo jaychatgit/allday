@@ -7,6 +7,7 @@ Introduction to Git
 เริ่มต้นใช้งาน Git
 1. Folder Structure
 	ควรกำหนดข้อตกลงในการแบ่ง Folder และ File ต่างๆ ใน Project ให้เสร็จตั้งแต่เริ่ม
+	touch .gitignore ไว้ เพื่อใส่ List ของ File ที่
 
 
 
